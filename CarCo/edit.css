@@ -1,0 +1,36 @@
+.body{
+    background-image:url(BlackBackground.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover ;
+    font-family: "Lucida Console", "Monaco", monospace;
+    color: ghostwhite;
+  }
+  h1 {
+    color: ghostwhite;
+    }
+h2 {
+    color: ghostwhite;
+    background-color: grey;
+}
+hr{
+    border: 2px solid ghostwhite;
+    margin-top: 20px;
+}
+p {
+    color: ghostwhite;
+}
+li {
+  display: inline;
+}
+li {
+  float: right;
+}
+
+.logo {
+    width: 60px;
+}
+.homename{
+    text-align: justify;
+    padding: 1px;
+}
